@@ -6,7 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Copia Eclipse + BASH");
 
-		System.out.println("Copia Bash branch master + bash");
+		System.out.println("Merge Eclipse (master + eclipse) e Bash (master e bash)");
 	}
 
 }
