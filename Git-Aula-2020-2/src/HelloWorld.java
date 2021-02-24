@@ -6,7 +6,7 @@ public class HelloWorld {
 
 		System.out.println("Copia Eclipse + BASH");
 
-		System.out.println("Copia Bash branch master");
+		System.out.println("Copia Bash branch master + bash");
 	}
 
 }
