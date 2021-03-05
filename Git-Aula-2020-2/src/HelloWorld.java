@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Commit - Thiago Carrilho Rodriguez");
 		System.out.println("Commit Branch - Thiago Carrilho Rodriguez");
 		System.out.println("Commit Branch - Alexsandro Matias de Almeida");
-		System.out.println("Segundo Commit Branch - Alexsandro");
+		System.out.println("Segundo Commit Branch - Alexsandro.");
 
 	}
 }
